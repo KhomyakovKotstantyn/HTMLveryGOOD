@@ -169,7 +169,7 @@ body {
   margin-bottom: 110px;
   margin-left: 255px;
   margin-right: 255px;
-  background-image: url(./img/Footer.svg);
+  background-image: url(/img/Footer.svg);
   width: 1425px;
   height: 452px;
 }
